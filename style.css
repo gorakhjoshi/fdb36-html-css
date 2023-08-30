@@ -1,0 +1,20 @@
+/* CSS Reset */
+* {
+  margin: 0;
+}
+
+header {
+  height: 50px;
+  color: white;
+  background-color: gray;
+}
+
+main {
+  height: calc(100vh - 50px - 50px);
+  background-color: red;
+}
+
+footer {
+  background-color: gray;
+  height: 50px;
+}
